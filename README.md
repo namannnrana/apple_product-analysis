@@ -34,8 +34,5 @@ This analysis is based on the `apple.csv` dataset, which contains information ab
 
 ## 11. Most Expensive and Least Expensive Apple Phone
 - Identify the most expensive and least expensive Apple phones in the dataset.
-## Data Overview
-
-The dataset contains information about movies, actors, directors, producers, genres, ROI, and profits. The analysis is based on this structured data to answer the above questions.
 
 This analysis will provide valuable insights into the performance, pricing, and review patterns of Apple phones.
